@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dog component renders a Dog 1`] = `
+<Fragment>
+  <Header />
+  <Dog
+    age={12}
+    name="Rover"
+    weight="22 lbs"
+  />
+</Fragment>
+`;

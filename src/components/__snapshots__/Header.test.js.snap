@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dog component renders a Dog 1`] = `
+<header
+  style={
+    Object {
+      "display": "flex",
+      "height": "2em",
+      "justifyContent": "space-between",
+      "padding": "1em",
+    }
+  }
+>
+  <img
+    src="/path/image"
+    style={
+      Object {
+        "height": "100%",
+      }
+    }
+  />
+  <h1
+    style={
+      Object {
+        "margin": 0,
+      }
+    }
+  >
+    My Dogs
+  </h1>
+</header>
+`;
