@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dog component renders a pink with all fields 1`] = `
+<dl>
+   
+  <dt>
+    Name
+  </dt>
+   
+  <dd>
+    Pink
+  </dd>
+   
+  <dt>
+    Red
+  </dt>
+  <dd>
+    255
+  </dd>
+  <dt>
+    Green
+  </dt>
+  <dd>
+    105
+  </dd>
+  <dt>
+    Blue
+  </dt>
+  <dd>
+    180
+  </dd>
+   
+  <dt>
+    Hex
+  </dt>
+  <dd>
+    ff69b4
+  </dd>
+   
+</dl>
+`;
+
+exports[`Dog component renders a pink without hex 1`] = `
+<dl>
+   
+  <dt>
+    Name
+  </dt>
+   
+  <dd>
+    Pink
+  </dd>
+   
+  <dt>
+    Red
+  </dt>
+  <dd>
+    255
+  </dd>
+  <dt>
+    Green
+  </dt>
+  <dd>
+    105
+  </dd>
+  <dt>
+    Blue
+  </dt>
+  <dd>
+    180
+  </dd>
+   
+  <dt>
+    Hex
+  </dt>
+  <dd>
+    f34989c
+  </dd>
+   
+</dl>
+`;
+
+exports[`Dog component renders a pink without name or hex 1`] = `
+<dl>
+   
+  <dt>
+    Name
+  </dt>
+   
+  <dd>
+    f34989c
+  </dd>
+   
+  <dt>
+    Red
+  </dt>
+  <dd>
+    255
+  </dd>
+  <dt>
+    Green
+  </dt>
+  <dd>
+    105
+  </dd>
+  <dt>
+    Blue
+  </dt>
+  <dd>
+    180
+  </dd>
+   
+  <dt>
+    Hex
+  </dt>
+  <dd>
+    f34989c
+  </dd>
+   
+</dl>
+`;

@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dog component renders a pink with all fields 1`] = `
+<Color
+  hex="8673a1"
+  name="Pearl Violet"
+  rgb={
+    Object {
+      "blue": 161,
+      "green": 115,
+      "red": 134,
+    }
+  }
+/>
+`;
+
+exports[`Dog component renders a pink without hex 1`] = `
+<Color
+  hex="8673a1"
+  name="Pearl Violet"
+  rgb={
+    Object {
+      "blue": 161,
+      "green": 115,
+      "red": 134,
+    }
+  }
+/>
+`;
+
+exports[`Dog component renders a pink without name 1`] = `
+<Color
+  hex="8673a1"
+  name="Pearl Violet"
+  rgb={
+    Object {
+      "blue": 161,
+      "green": 115,
+      "red": 134,
+    }
+  }
+/>
+`;
